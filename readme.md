@@ -1,6 +1,5 @@
-Sure, here is the readme.md file in Markdown format:
+## PDF Interactor
 
-PDF Interactor
 This is an LLM that enables you to interact with your PDF files. It can be used to ask questions about the PDF, get insights from the text, and collaborate with others on the document.
 
 Features
@@ -20,12 +19,13 @@ OpenAI API key
 Installation
 Clone the repository.
 Install the dependencies using the following command:
+
 `pip install -r requirements.txt`
 
 ## Usage
 
 To run the app, simply type the following command in the terminal:
 
-streamlit run app.py
+`streamlit run app.py`
 
 The app will be opened in your web browser.
